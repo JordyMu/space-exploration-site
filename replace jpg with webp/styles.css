@@ -1,0 +1,23 @@
+body{
+ color: #82a5ca;   
+ background-image: url("images/galaxy3.webp"); 
+ background-size: cover;
+ text-align: center;
+ font-family: "Orbitron", sans-serif;
+}
+#main-logo{
+  width: 100px;
+}
+.btn{
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 800;
+    color: #82a5ca;
+}
+.underline{
+  border-bottom: 4px solid white;
+}
+
+
